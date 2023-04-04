@@ -22,6 +22,7 @@ function App() {
       </Routes>
       <Footer />
     </Router>
+    <spacer></spacer>
     </Web3Provider>
   );
 }
