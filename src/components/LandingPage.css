@@ -1,0 +1,24 @@
+```css
+.main-heading {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 3rem;
+  color: #3c3c3c;
+}
+
+.property-card {
+  margin-bottom: 30px;
+}
+
+.property-img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.agent-card {
+  margin-bottom: 30px;
+}
+
+.newsletter-card {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
